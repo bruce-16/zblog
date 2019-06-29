@@ -7,6 +7,7 @@
 
 ## ES
   * [【JS概念】纯函数和副作用](https://github.com/zachrey/zblog/issues/3)
+  * [【设计模式】之单例模式](https://github.com/zachrey/zblog/issues/4)
 
 ## 工具
   * **git**
