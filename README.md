@@ -8,6 +8,9 @@
 ## ES
   * [【JS概念】纯函数和副作用](https://github.com/zachrey/zblog/issues/3)
   * [【设计模式】之单例模式](https://github.com/zachrey/zblog/issues/4)
+  
+## react & vue
+  * [webpack打包出来的vue异步组件分析](https://github.com/zachrey/zblog/issues/5)
 
 ## 工具
   * **git**
