@@ -12,6 +12,7 @@
 ## react & vue
   * [webpack打包出来的vue异步组件分析](https://github.com/zachrey/zblog/issues/5)
   * [virtual-dom 梳理分析【一】](https://github.com/zachrey/zblog/issues/8)
+  * [virtual-dom 梳理分析【二】](https://github.com/zachrey/zblog/issues/9)
   
 ## 网络协议
   * HTTP
