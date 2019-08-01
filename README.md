@@ -8,7 +8,7 @@
 ## ES
   * [【JS概念】纯函数和副作用](https://github.com/zachrey/zblog/issues/3)
   * [【设计模式】之单例模式](https://github.com/zachrey/zblog/issues/4)
-  * [promise-polyfill 梳理分析【一】](https://github.com/zachrey/zblog/issues/11)
+  * [promise-polyfill 梳理分析【一：构造和resolve决策】](https://github.com/zachrey/zblog/issues/11)
   
 ## react & vue
   * [webpack打包出来的vue异步组件分析](https://github.com/zachrey/zblog/issues/5)
