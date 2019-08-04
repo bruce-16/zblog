@@ -23,3 +23,5 @@
 ## 工具
   * **git**
     * [Git的分支合并的技巧](https://github.com/zachrey/zblog/issues/2)
+
+> 转载请注意标明原文地址。
