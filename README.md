@@ -19,8 +19,9 @@
   * [virtual-dom 梳理分析【三】](https://github.com/zachrey/zblog/issues/10)
   
 ## 网络协议
-  * HTTP
+  * HTTP/HTTPS
     * [CORS 梳理](https://github.com/zachrey/zblog/issues/7)
+    * [HTTPS 基本链接过程](https://github.com/zachrey/zblog/issues/14)
 
 ## 工具
   * **git**
