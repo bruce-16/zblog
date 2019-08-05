@@ -1,5 +1,7 @@
 # zblog
 
+> 转载请注意标明原文地址，谢谢。
+
 [原博客地址](http://zachrey.win/)
 
 ## 数据结构与算法
@@ -26,5 +28,4 @@
 ## 工具
   * **git**
     * [Git的分支合并的技巧](https://github.com/zachrey/zblog/issues/2)
-
-> 转载请注意标明原文地址。
+    
