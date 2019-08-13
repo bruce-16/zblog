@@ -20,6 +20,7 @@
   * [virtual-dom 梳理分析【二】](https://github.com/zachrey/zblog/issues/9)
   * [virtual-dom 梳理分析【三】](https://github.com/zachrey/zblog/issues/10)
   * [Redux 梳理分析【一：reducer和dispatch】](https://github.com/zachrey/zblog/issues/15)
+  * [Redux 梳理分析【二：combineReducers和中间件】](https://github.com/zachrey/zblog/issues/16)
   
 ## 网络协议
   * HTTP/HTTPS
