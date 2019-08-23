@@ -23,6 +23,7 @@
   * [Redux 梳理分析【二：combineReducers和中间件】](https://github.com/zachrey/zblog/issues/16)
 ## node
   * [Koa 梳理分析【一：koa 实例】](https://github.com/zachrey/zblog/issues/17)
+  * [ Koa 梳理分析【二：异步中间件】](https://github.com/zachrey/zblog/issues/18)
   
 ## 网络协议
   * HTTP/HTTPS
