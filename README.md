@@ -13,10 +13,12 @@
   * [纯函数和副作用](https://github.com/zachrey/zblog/issues/3)
   * [单例模式](https://github.com/zachrey/zblog/issues/4)
   * [观察者模式](https://github.com/zachrey/zblog/issues/20)
+  * [判断一个值为字面量对象](https://github.com/zachrey/zblog/issues/21)
   * [promise-polyfill 梳理分析【一：构造和resolve决策】](https://github.com/zachrey/zblog/issues/11)
   * [promise-polyfill 梳理分析【二：reject决策】](https://github.com/zachrey/zblog/issues/12)
   * [promise-polyfill 梳理分析【三：内置函数的实现】](https://github.com/zachrey/zblog/issues/13)
   * [模拟实现call、apply和bind](https://github.com/zachrey/zblog/issues/19)
+  
   
 ## react & vue
   * [webpack打包出来的vue异步组件分析](https://github.com/zachrey/zblog/issues/5)
